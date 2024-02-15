@@ -1,8 +1,3 @@
-### AirFlow 정식 도큐먼트
-```
-https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dags.html
-```
-
 ### AIRFLOW 코딩 순서
 - timezone 설정
 - default_args 설정
